@@ -23,6 +23,8 @@ namespace ConsoleApp1
 
             a.Letter = "어떻게 지내고 있어?";
             a.Money = 150000;
+
+            Console.WriteLine("test");
         }
     }
 }
