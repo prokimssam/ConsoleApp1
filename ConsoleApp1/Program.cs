@@ -25,7 +25,6 @@ namespace ConsoleApp1
             a.Money = 150000;
 
             Console.WriteLine("bbbbbbbbbbbbbb");
-            Console.WriteLine("cccccc22222");
         }
     }
 }
